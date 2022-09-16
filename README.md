@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Chamarr Auber
 =====================================================================================================================================
 
-Software Engineer
+Full Stack Software Engineer
 -----------------
 
 I am a rising junior at UMD after switching from pre-med to computer science. I have been teaching myself to code alongside taking my cs classes for about 7 months.
