@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Software Engineer
 -----------------
 
-I am a junior at UMD after switching from pre-med to computer science. I have been teaching myself to code alongside taking my CS classes for about 8 months.
+I am a senior computer science major at the University of Maryland.
 
 * 🌍  I'm based in Maryland
 * ✉️  You can contact me at [chamarrball@gmail.com](mailto:chamarrball@gmail.com)
